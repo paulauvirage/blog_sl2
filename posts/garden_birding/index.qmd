@@ -6,6 +6,6 @@ date: "8/16/2024"
 draft: false
 ---
 
-## Birding Juba 
+## Birding Juba
 
 This is a blog post

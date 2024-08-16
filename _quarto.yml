@@ -5,9 +5,10 @@ website:
   title: "Sierra Leone Wildlife"
   navbar:
     right:
-      - about.qmd
-      - text: blog posts
+      - text: about
         href: index.qmd
+      - text: blog posts
+        href: blog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
