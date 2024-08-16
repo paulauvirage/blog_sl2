@@ -7,20 +7,6 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts/garden_birding/index.html",
-    "href": "posts/garden_birding/index.html",
-    "title": "Garden birds",
-    "section": "",
-    "text": "This is a blog post"
-  },
-  {
-    "objectID": "posts/garden_birding/index.html#birding-juba",
-    "href": "posts/garden_birding/index.html#birding-juba",
-    "title": "Garden birds",
-    "section": "",
-    "text": "This is a blog post"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Wildlife blog",
@@ -40,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "wildlife_resources.html",
+    "href": "wildlife_resources.html",
+    "title": "Wildlife resources",
+    "section": "",
+    "text": "Birding"
+  },
+  {
+    "objectID": "wildlife_resources.html#books",
+    "href": "wildlife_resources.html#books",
+    "title": "Wildlife resources",
+    "section": "",
+    "text": "Birding"
   }
 ]

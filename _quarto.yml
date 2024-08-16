@@ -9,6 +9,8 @@ website:
         href: index.qmd
       - text: blog posts
         href: blog.qmd
+      - text: Wildlife resources
+        href: wildlife_resources.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
