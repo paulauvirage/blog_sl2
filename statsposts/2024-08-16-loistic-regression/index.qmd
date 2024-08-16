@@ -1,0 +1,12 @@
+---
+title: "Logistic regression"
+description: "Modelling binary data"
+author: "Paul"
+date: "8/16/2024"
+draft: false
+image: "juba.jpg"
+---
+
+## Logistic regression
+
+![](juba.jpg)

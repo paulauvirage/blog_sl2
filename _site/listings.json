@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/statsblog.html",
+    "items": [
+      "/statsposts/2024-08-16-loistic-regression/index.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/garden_birding/index.html",

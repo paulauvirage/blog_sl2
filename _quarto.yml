@@ -7,10 +7,12 @@ website:
     right:
       - text: about
         href: index.qmd
-      - text: blog posts
+      - text: Wildlife blog
         href: blog.qmd
       - text: Wildlife resources
         href: wildlife_resources.qmd
+      - text: Stats blog
+        href: statsblog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
