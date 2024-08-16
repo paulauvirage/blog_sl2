@@ -1,0 +1,24 @@
+/* css styles */
+
+body {
+  /*background: #FFF9F5;*/
+  background-color: #F2DFCE;
+background-image: url("images/paper-fibers.png");
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #990F3D;
+}
+
+h2 {
+  color: #990F3D;
+}
+
+h3 {
+  color: #990F3D;
+}
+

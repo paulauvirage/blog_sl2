@@ -1,0 +1,11 @@
+---
+title: "Garden birds"
+description: "Birds from my suburban balcony"
+author: "Paul"
+date: "8/16/2024"
+draft: false
+---
+
+## Birding Juba 
+
+This is a blog post
