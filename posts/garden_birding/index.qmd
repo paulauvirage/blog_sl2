@@ -4,8 +4,9 @@ description: "Birds from my suburban balcony"
 author: "Paul"
 date: "8/16/2024"
 draft: false
+image: "juba.jpg"
 ---
 
 ## Birding Juba
 
-This is a blog post
+![](juba.jpg)
