@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Sierra Leone Wildlife"
@@ -23,5 +24,8 @@ format:
     theme: minty
     css: styles.css
 
+navbar:
+    background: "blue"
+    
 editor: visual
 
